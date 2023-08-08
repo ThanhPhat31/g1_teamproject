@@ -1,0 +1,10 @@
+CREATE TABLE `contact` (
+  `ContactID` INT NOT NULL AUTO_INCREMENT,
+  `Name` VARCHAR(100) NOT NULL,
+  `Mail` VARCHAR(100) NOT NULL,
+  `Phone` VARCHAR(100) NOT NULL,
+  `Message` VARCHAR(100) NOT NULL,
+  `Date` DATE NOT NULL,
+  `Time` TIME NOT NULL,
+  `Status` INT NOT NULL,
+  PRIMARY KEY (`ContactID`));

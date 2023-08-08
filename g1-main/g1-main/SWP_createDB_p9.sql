@@ -1,0 +1,2 @@
+ALTER TABLE clinic.`profile` 
+ADD COLUMN Image VARCHAR(55) NULL AFTER Role;

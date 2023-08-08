@@ -1,0 +1,10 @@
+ALTER TABLE `designate_list` 
+DROP COLUMN `Result`,
+DROP COLUMN `Status`;
+ALTER TABLE `designate` 
+ADD COLUMN `Status` INT NOT NULL AFTER `Price`,
+ADD COLUMN `Result` VARCHAR(100) NOT NULL AFTER `Status`;
+ALTER TABLE `case` 
+ADD COLUMN `Result` VARCHAR(100) NOT NULL AFTER `Description`;
+ALTER TABLE `profile` 
+ADD COLUMN `Gender` TINYINT NOT NULL AFTER `DoB`;

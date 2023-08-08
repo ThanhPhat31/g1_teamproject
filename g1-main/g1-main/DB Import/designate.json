@@ -1,0 +1,7 @@
+[{"DesignateID":5, "Name":"Take X-Ray", "Price":0},
+ {"DesignateID":6, "Name":"Magnetic resonance imaging", "Price":0},
+ {"DesignateID":7, "Name":"Blood tests", "Price":0},
+ {"DesignateID":8, "Name":"Eye measurement", "Price":0},
+ {"DesignateID":9, "Name":"Collecting eye marrow fluid", "Price":0},
+ {"DesignateID":10, "Name":"Eye surgery", "Price":0},
+ {"DesignateID":11, "Name":"Myopia treatment", "Price":0}]

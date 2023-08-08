@@ -1,0 +1,12 @@
+[{"ProductID":1, "Price":100000, "Description":"", "Productname":"G\u1ecdng k\u00ednh c\u1eadn trong su\u1ed1t", "Quantity":50, "Image":"G\u1ecdng k\u00ednh c\u1eadn trong su\u1ed1t", "Category":0},
+ {"ProductID":2, "Price":105000, "Description":"", "Productname":"G\u1ecdng k\u00ednh c\u1eadn kim lo\u1ea1i", "Quantity":50, "Image":"G\u1ecdng k\u00ednh c\u1eadn kim lo\u1ea1i", "Category":0},
+ {"ProductID":3, "Price":205000, "Description":"", "Productname":"G\u1ecdng k\u00ednh c\u1eadn b\u1eb1ng nh\u1ef1a", "Quantity":100, "Image":"G\u1ecdng k\u00ednh c\u1eadn b\u1eb1ng nh\u1ef1a", "Category":0},
+ {"ProductID":4, "Price":230000, "Description":"", "Productname":"G\u1ecdng k\u00ednh b\u1eb1ng ch\u1ea5t li\u1ec7u \u0111\u1eb7c bi\u1ec7t", "Quantity":100, "Image":"G\u1ecdng k\u00ednh b\u1eb1ng ch\u1ea5t li\u1ec7u \u0111\u1eb7c bi\u1ec7t", "Category":0},
+ {"ProductID":5, "Price":200600, "Description":"", "Productname":"G\u1ecdng k\u00ednh c\u1eadn vu\u00f4ng", "Quantity":100, "Image":"G\u1ecdng k\u00ednh c\u1eadn vu\u00f4ng", "Category":0},
+ {"ProductID":6, "Price":270000, "Description":"", "Productname":"G\u1ecdng k\u00ednh c\u1eadn tr\u00f2n", "Quantity":100, "Image":"G\u1ecdng k\u00ednh c\u1eadn tr\u00f2n", "Category":0},
+ {"ProductID":7, "Price":201000, "Description":"", "Productname":"G\u1ecdng k\u00ednh c\u1eadn n\u1eeda vi\u1ec1n", "Quantity":100, "Image":"G\u1ecdng k\u00ednh c\u1eadn n\u1eeda vi\u1ec1n", "Category":0},
+ {"ProductID":8, "Price":200900, "Description":"", "Productname":"G\u1ecdng k\u00ednh c\u1eadn m\u1eaft m\u00e8o", "Quantity":200, "Image":"G\u1ecdng k\u00ednh c\u1eadn m\u1eaft m\u00e8o", "Category":0},
+ {"ProductID":9, "Price":200080, "Description":"", "Productname":"K\u00ednh \u00e1p tr\u00f2ng c\u1ee9ng", "Quantity":200, "Image":"K\u00ednh \u00e1p tr\u00f2ng c\u1ee9ng", "Category":1},
+ {"ProductID":10, "Price":220000, "Description":"", "Productname":"K\u00ednh \u00e1p tr\u00f2ng m\u1ec1m", "Quantity":200, "Image":"K\u00ednh \u00e1p tr\u00f2ng m\u1ec1m", "Category":1},
+ {"ProductID":11, "Price":204000, "Description":"", "Productname":"K\u00ednh \u00e1p tr\u00f2ng th\u1ea9m th\u1ea5u", "Quantity":200, "Image":"K\u00ednh \u00e1p tr\u00f2ng th\u1ea9m th\u1ea5u", "Category":1},
+ {"ProductID":12, "Price":200020, "Description":"", "Productname":"K\u00ednh gi\u00e3n tr\u00f2ng", "Quantity":200, "Image":"K\u00ednh gi\u00e3n tr\u00f2ng", "Category":1}]

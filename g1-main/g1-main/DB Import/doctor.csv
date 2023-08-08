@@ -1,0 +1,10 @@
+[{"DoctorID":1, "ProfileID":12, "Position":"Doctor", "Department":"Medical examination", "Status":1},
+ {"DoctorID":2, "ProfileID":13, "Position":"Doctor", "Department":"Medical examination", "Status":1},
+ {"DoctorID":3, "ProfileID":16, "Position":"Doctor", "Department":"Medical examination", "Status":1},
+ {"DoctorID":4, "ProfileID":17, "Position":"Doctor", "Department":"Medical examination", "Status":1},
+ {"DoctorID":5, "ProfileID":18, "Position":"Doctor", "Department":"Medical examination", "Status":1},
+ {"DoctorID":6, "ProfileID":19, "Position":"Doctor", "Department":"Medical examination", "Status":1},
+ {"DoctorID":7, "ProfileID":20, "Position":"Doctor", "Department":"Medical examination", "Status":1},
+ {"DoctorID":8, "ProfileID":23, "Position":"Staff", "Department":"Customer takecare", "Status":1},
+ {"DoctorID":9, "ProfileID":24, "Position":"Staff", "Department":"Customer takecare", "Status":1},
+ {"DoctorID":10, "ProfileID":25, "Position":"Staff", "Department":"Customer takecare", "Status":1}]
